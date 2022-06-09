@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm ..QueenOfQueef..</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mac0r0ni&label=Profile%20views&color=ff0000&style=plastic" alt="mac0r0ni" /> </p>
 
 - 🌱 I’m currently learning **Python**
 
@@ -7,8 +6,8 @@
 
 - ⚡ Fun fact **I poop twice (Daily!!!)**
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mac0r0ni&show_icons=true&locale=en" alt="mac0r0ni" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mac0r0ni&label=Profile%20views&color=ff0000&style=plastic" alt="mac0r0ni" /> </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mac0r0ni&show_icons=true&locale=en" alt="mac0r0ni" />
 
 
 <!---
