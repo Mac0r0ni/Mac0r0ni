@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm ..QueenOfQueef..</h1>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning: **Python**
 
-- 💬 Ask me about **My x2 Daily Poops!**
+- 💬 Ask me about: **My x2 Daily Poops!**
 
-- ⚡ Fun fact **I poop twice (Daily!!!)**
+- ⚡ Fun fact: **I poop twice (Daily!!!)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mac0r0ni&label=Profile%20views&color=ff0000&style=plastic" alt="mac0r0ni" /> </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mac0r0ni&show_icons=true&locale=en" alt="mac0r0ni" />
